@@ -1,2 +1,4 @@
 cat yellow
 dog brown
+cat black
+dog black
